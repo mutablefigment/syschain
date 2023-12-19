@@ -1,0 +1,13 @@
+{
+	"authors": [
+		"anon"
+	],
+	"copyright": "Copyright © 2023, anon",
+	"dependencies": {
+		"botan": "~>1.13.6",
+		"vibe-d": "~>0.9.7"
+	},
+	"description": "A program to check and calculate the hash of the MBR.",
+	"license": "proprietary",
+	"name": "syschain"
+}

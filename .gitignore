@@ -1,0 +1,17 @@
+.dub
+docs.json
+__dummy.html
+docs/
+/syschain
+syschain.so
+syschain.dylib
+syschain.dll
+syschain.a
+syschain.lib
+syschain-test-*
+*.exe
+*.pdb
+*.o
+*.obj
+*.lst
+*.pem
